@@ -1,0 +1,5 @@
+{
+  "name": "agent-passport",
+  "assets": { "directory": "./frontend" },
+  "compatibility_date": "2025-01-01"
+}
